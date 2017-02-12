@@ -1,0 +1,3 @@
+#Bagas_Prasetya_Adi
+
+Pada task 1 week 1 ini kita diajarkan untuk mengolah repository dan membuat beberapa direktori untuk pekerjaan os kita kedepannya. Kita diajarkan juga cara menggunakan text editor pada CLI serta menulis ekspektasi di kelas
