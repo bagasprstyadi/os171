@@ -1,0 +1,6 @@
+#Bagas_Prasetya_Adi
+
+Lab minggu lalu kita diajarkan untuk membuat akun google dan akun github.
+Selanjutnya kita disuruh untuk mengisi form gdocs.
+Setelah itu kita akan masuk ke dalam server badak.cs.ui.ac.id melalui ssh
+
