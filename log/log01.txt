@@ -1,3 +1,12 @@
-w01-170202-16-PS-About : Week 1 Task 1
-w01-170202-17-PS-About : Week 1 Task 1
-w01-170202-20-PS-About : Week 1 Task 1
+w01-170212-16-PS-About : Week 1 Task 1
+w01-170212-17-PS-About : Week 1 Task 1
+w01-170212-20-PS-About : Week 1 Task 1
+w01-170214-13-LR-About : Listening to Lecture in class (Property Rights)
+w01-170214-13-LR-About : Listening to Lecture in class (Property Rights)
+w01-170214-14-LR-About : Listening to Lecture in class (Property Rights)
+w01 170214-14-LR-About : Listening to Lecture in class (Scripting)
+w01-170216-13-LR-About : Listening to Lecture in class (Scripting)
+w01-170216-13-LR-About : Listening to Lecture in class (Scripting)
+w01-170216-14-LR-About : Listening to Lecture in class (Scripting)
+w01-170216-14-LR-About : Listening to Lecture in class (Scripting)
+
